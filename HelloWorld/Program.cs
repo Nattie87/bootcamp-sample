@@ -7,7 +7,6 @@ namespace HelloWorldSample
 		public static void Main() 
 		{
 			Console.WriteLine("Hello World!");
-			djdhfjndj
 		}
 	}
 }
